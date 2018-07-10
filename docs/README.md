@@ -1,9 +1,11 @@
 ---
 home: true
 heroImage: /logo.png
-actionText: Get Started →
+actionText: 查看文档 →
 actionLink: /guide.md
 features:
+- title: VuePress
+  details: 使用markdown自动生成项目文档.
 - title: Vue多页面
   details: 使用vue+webpack+babel构建的多页面脚手架,开发,调试非常便捷.
 - title: H5+
